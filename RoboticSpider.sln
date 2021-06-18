@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoboticSpider", "RoboticSpider\RoboticSpider.csproj", "{F6D271E1-B591-4C16-9957-2EB1794C6F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestSpider", "UnitTestSpider\UnitTestSpider.csproj", "{0468F9B6-477E-4664-873D-9797AC772ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6D271E1-B591-4C16-9957-2EB1794C6F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D271E1-B591-4C16-9957-2EB1794C6F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D271E1-B591-4C16-9957-2EB1794C6F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D271E1-B591-4C16-9957-2EB1794C6F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0468F9B6-477E-4664-873D-9797AC772ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0468F9B6-477E-4664-873D-9797AC772ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0468F9B6-477E-4664-873D-9797AC772ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0468F9B6-477E-4664-873D-9797AC772ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59B51112-8BE1-4048-A44B-4FC7E9668343}
+	EndGlobalSection
+EndGlobal
